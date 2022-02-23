@@ -1,0 +1,2 @@
+Manifest {manifestHash = (3347563837598055405,Nothing), successFlags = (20,20,False), portInNames = ["clk_sys","btnCpuReset"], portInTypes = ["top.top_types.clk_systemdomain","top.top_types.rst_systemdomain"], portOutNames = ["vgaRed","vgaBlue","vgaGreen","Hsync","Vsync"], portOutTypes = ["std_logic_vector(3 downto 0)","std_logic_vector(3 downto 0)","std_logic_vector(3 downto 0)","boolean","boolean"], componentNames = ["top"]}
+
